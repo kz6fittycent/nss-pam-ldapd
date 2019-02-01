@@ -1,4 +1,4 @@
-name: nss-pam-ldapd # check to see if it's available
+name: nss-pam-ldapd 
 version: git
 summary: A fork of nss_ldap with some structural design improvements # 79 char long summary
 description: |
