@@ -18,4 +18,4 @@ parts:
   nss-pam-ldapd:
     source: https://arthurdejong.org/nss-pam-ldapd/release-0-9-10
     source-type: tar
-    plugin: autotools
+    plugin: make
